@@ -8,7 +8,7 @@ const charactersList = {
 }
 
 function randomArray(array) {
-    return array.charAt[Math.floor(Math.random() * array.length)];
+    return array.charAt(Math.floor(Math.random() * array.length));
 }
 
 const requests = {
